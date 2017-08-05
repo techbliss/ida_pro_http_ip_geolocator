@@ -52,7 +52,7 @@ Using MaxMind free GeoipCityData.dat(provided here in the package)
 
 **TODO**
 
-ida crashes when using webkit, so for now i load the plging via subprocess
+ida crashes when using webkit, so for now i load the plugin via subprocess
 
 **Screenshot**
 
