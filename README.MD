@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Twitter--blue.svg?maxAge=2592000)](https://twitter.com/zadow28) ![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) ![Python version](https://img.shields.io/badge/Ida-plugin-red.svg?maxAge=2592000) ![PyQ5t](https://img.shields.io/badge/PyQt5-5.6-orange.svg) ![PyQ5t](https://img.shields.io/badge/PyQt4-4.8-yellow.svg)
+
 **Ida pro PyQt4 and Pyqt5 Geo locator http and IP Lookup**
 
 ****What it does****
