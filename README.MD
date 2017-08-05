@@ -50,7 +50,9 @@ Using MaxMind free GeoipCityData.dat(provided here in the package)
 
 [MaxMind Site](https://www.maxmind.com/en/geoip2-city)
 
+**TODO**
 
+ida crashes when using webkit, so for now i load the plging via subprocess
 
 **Screenshot**
 
