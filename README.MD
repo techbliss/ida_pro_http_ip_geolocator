@@ -2,9 +2,9 @@
 
 ****What it does****
 
-look up web adress and resolve it to a ip and look it via google maps
+look up web addresses and resolve it to a ip and look it via google maps
 
-or just lookup a ip adress
+or just lookup a ip address
 
 PyQt5 version street view also works.
 
