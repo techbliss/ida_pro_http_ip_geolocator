@@ -12,10 +12,10 @@ import ico
 from ico import *
 import subprocess
 
-PLUGIN_VERSION = "1.4" #change Plugin Version
+PLUGIN_VERSION = "1.2" #change Plugin Version
 IDAVERISONS    = "IDA PRO 7.0+" #change Ida version
 AUTHORS        = "Storm Shadow" #change author
-DATE           = "2017" #change date
+DATE           = "2019" #change date
 TWITTER        = "Twitter @zadow28" #change social media
 
 def banner():
