@@ -36,9 +36,9 @@ Copy files to plugin folder and load via ALt+G
 
 **right click a ip adress like 198.153.192.1 and press copy to clibboard**
 
-**or a web adress without the http// or www like pypi.python.org and press copy to clibboard**
+**or a web adress without the http// or www like pypi.python.org and press copy to clipboard**
 
-then hit shortcut ALT+G or load viq file menu in ida.
+then hit shortcut CTRL+G or load via file menu in ida.
 
 Remember it is the clipboard contents data it uses.
 
@@ -52,7 +52,7 @@ Using MaxMind free GeoipCityData.dat(provided here in the package)
 
 **TODO**
 
-ida crashes when using webkit, so for now i load the plugin via subprocess
+Nothing
 
 **Screenshot**
 
