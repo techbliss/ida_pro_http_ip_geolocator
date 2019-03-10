@@ -16,7 +16,7 @@ ida 6.8 =<
 
 *PyQt4 and the PyQt4 webkit*
 
-ida 6.9 +
+ida 6.9 and 7.0+
 
 *PyQt5 and the PyQt5 QtWebEnginewidgets*
 
