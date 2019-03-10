@@ -34,6 +34,8 @@ not needed but for more accurate results(1)
 
 Copy files to plugin folder and load via ALt+G
 
+***IMPORTANT***
+
 **right click a ip adress like 198.153.192.1 and press copy to clibboard**
 
 **or a web adress without the http// or www like pypi.python.org and press copy to clipboard**
