@@ -20,9 +20,14 @@ ida 6.9 and 7.0+
 
 *PyQt5 and the PyQt5 QtWebEnginewidgets*
 
-not needed but for more accurate results(1)
+not needed , but for more accurate results, and to get detailed streetmaps and more.
+you would have to make a billing plan at https://cloud.google.com/maps-platform/
+you would get alot of free api lookups , so i do not think you ever would be charged.
+
+
 
 [GOOGLE JAVASCRIPT MAP API KEY](https://developers.google.com/maps/documentation/javascript/get-api-key)
+You woulkd have to mae
 
 **pygeoip**
 
